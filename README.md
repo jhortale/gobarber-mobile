@@ -1,7 +1,7 @@
 # 🧔🏼 Go:Barber Mobile (React Native Typescript)
 
 To see the **back end**, click here: [GoBarber Backend](https://github.com/jhortale/gobarber-web)<br />
-To see the **web client**, click here: [GoBarber Mobile](https://github.com/jhortale/gobarber-mobile)
+To see the **web client**, click here: [GoBarber Web](https://github.com/jhortale/gobarber-mobile)
 
 ## 🚀 Technologies
 
